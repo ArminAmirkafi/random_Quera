@@ -1,2 +1,2 @@
 # random_Quera
-random
+a few question randomly thrown off with Quera being our guest fo honor
